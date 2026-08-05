@@ -4,7 +4,7 @@ Software Engineer | ML Enthusiast | Open Source Contributor
 
 ## About Me
 
-I am Tanya Verma, a software engineer based in Jamshedpur, Jharkhand. I work on machine learning and full stack and enjoy building useful, accessible software.
+I am Tanya Verma, a software engineer based in bhilai, Chhattisgarh. I work on machine learning and full stack and enjoy building useful, accessible software.
 
 ## Contact
 
