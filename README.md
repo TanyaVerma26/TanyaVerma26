@@ -20,23 +20,23 @@ I am Tanya Verma, a software engineer based in Jamshedpur, Jharkhand. I work on 
 
 ## Skills
 
-- Programming languages: <e.g. Python, JavaScript, TypeScript>
-- Frameworks / Tools: <e.g. React, Node.js, Flask, TensorFlow>
-- Other: <e.g. Docker, Kubernetes, CI/CD>
+- Programming languages: Python, C++, Rust
+- Frameworks / Tools: React, Node.js, Flask, TensorFlow
+- Other: Docker, Kubernetes, CI/CD
 
 ## Education
 
-- Degree, Institution — Year
+- Btech, Rungta Collge of Engineering and Technology — 2024-28
 
 ## Work Experience
 
-- Job Title, Company — Dates
-  - Short description of responsibilities and accomplishments
+  - Founder office intern, LiveBuy
+  - Built Rag chatbot
 
 ## Projects
 
 - Project Name — short description and link (if public)
-- Project Name — short description and link
+
 
 ## Certifications
 
@@ -44,12 +44,12 @@ I am Tanya Verma, a software engineer based in Jamshedpur, Jharkhand. I work on 
 
 ## Hobbies & Interests
 
-- Hobby 1
-- Hobby 2
+- Building stuffs
+- Table Tennis
 
 ## Availability
 
-I am currently: <Open to work / Not looking / Freelance available / etc.>
+I am currently: Open to work / Freelance available 
 
 ## Notes & Privacy
 
