@@ -1,10 +1,8 @@
-# <Your Full Name>
+# <Tanya Verma>
 
-> Short tagline or professional title — e.g. "Software Engineer | ML Enthusiast | Open Source Contributor"
+> Software Engineer | ML Enthusiast | Open Source Contributor
 
 ## About Me
-
-Write a short bio here. Example:
 
 I am <Your Full Name>, a software engineer based in <City, Country>. I work on <areas of focus> and enjoy building useful, accessible software.
 
