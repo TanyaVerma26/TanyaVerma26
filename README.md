@@ -34,7 +34,7 @@ I am Tanya Verma, a software engineer based in Jamshedpur, Jharkhand. I work on 
 ## Work Experience
 
   - Founder office intern, LiveBuy
-  - Built Rag chatbot
+  - optimized Rag chatbot
 
 ## Projects
 
