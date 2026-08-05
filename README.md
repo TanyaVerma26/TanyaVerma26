@@ -4,13 +4,12 @@
 
 ## About Me
 
-I am <Your Full Name>, a software engineer based in <City, Country>. I work on <areas of focus> and enjoy building useful, accessible software.
+I am Tanya Verma, a software engineer based in Jamshedpur, Jharkhand. I work on machine learning and full stack and enjoy building useful, accessible software.
 
 ## Contact
 
-- Email: <your.email@example.com>
-- Phone: <+CountryCode-Number or leave blank if you don't want to publish>
-- Location: <City, Country>
+- Email: tv210858@gmail.com
+- Location: jamshedpur, jharkhand
 
 ## Social
 
