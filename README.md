@@ -9,7 +9,7 @@ I am Tanya Verma, a software engineer based in bhilai, Chhattisgarh. I work on m
 ## Contact
 
 - Email: tv210858@gmail.com
-- Location: jamshedpur, jharkhand
+- Location: bhilai, Chhattisgarh
 
 ## Social
 
