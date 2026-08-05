@@ -40,7 +40,7 @@ I am Tanya Verma, a software engineer based in Jamshedpur, Jharkhand. I work on 
 
 ## Certifications
 
-- Prompt with Gemini — Google Student Ambassadors - 2025
+- Prompt with Gemini - Google Student Ambassadors - 2025
 - Solution Challenge - Google Developers Group On Campus- 2025
 - Generative Ai Tools - Google For Education Certifications - 2025
 - Large Language Model - United Latino Students Association - 2025
