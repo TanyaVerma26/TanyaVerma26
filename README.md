@@ -1,6 +1,6 @@
 # <Tanya Verma>
 
-> Software Engineer | ML Enthusiast | Open Source Contributor
+Software Engineer | ML Enthusiast | Open Source Contributor
 
 ## About Me
 
