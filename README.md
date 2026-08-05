@@ -16,6 +16,7 @@ I am Tanya Verma, a software engineer based in Jamshedpur, Jharkhand. I work on 
 - GitHub: https://github.com/TanyaVerma26
 - LinkedIn: https://www.linkedin.com/in/tanya-verma-962788281/
 - Twitter/X: [<https://twitter.com/your-handle>](https://x.com/Bussiness922363)
+- Leetcode : https://leetcode.com/u/jrpsqS93Nn/
 - Website/Portfolio: <https://your-website.example>
 
 ## Skills
