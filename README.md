@@ -38,7 +38,7 @@ I am Tanya Verma, a software engineer based in bhilai, Chhattisgarh. I work on m
 
 ## Projects
 
-- Project Name — short description and link (if public)
+- Project Name 
 
 
 ## Certifications
