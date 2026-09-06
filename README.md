@@ -16,7 +16,7 @@ I am Tanya Verma, a software engineer based in bhilai, Chhattisgarh. I work on m
 - GitHub: https://github.com/TanyaVerma26
 - LinkedIn: https://www.linkedin.com/in/tanya-verma-962788281/
 - Twitter/X: [<https://twitter.com/your-handle>](https://x.com/Bussiness922363)
-- Leetcode : https://leetcode.com/u/jrpsqS93Nn/
+- Leetcode : [https://leetcode.com/u/jrpsqS93Nn/](https://leetcode.com/u/u58e2rantm/)
 - CodeForces : [https://codeforces.com/profile/tanya.dav5301](https://codeforces.com/)
 - Discord : https://discord.com/invite/BppBYWCF
 - Website/Portfolio: [(https://claude.ai/public/artifacts/c484b0b1-ccff-49a4-92d9-019b2d80b5d3)](https://claude.ai/public/artifacts/c484b0b1-ccff-49a4-92d9-019b2d80b5d3)
